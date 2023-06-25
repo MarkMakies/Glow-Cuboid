@@ -3,8 +3,11 @@
 
 **Glow Cuboid with 64 LED RGB matrix** 
 
-## Videos
-Random Mode https://youtu.be/37wrW9WWSZY
+## Videos of different modes:
+- Symbol https://youtu.be/7jHFOrDojFA
+- Type A https://youtu.be/Bh6ZJeXqZyo
+- Type B https://youtu.be/XRGPs1mgesw
+- Random https://youtu.be/37wrW9WWSZY
 
 ## What does it do?
 Not much.  Sixty-four pixels change colour in random patterns and they look good (see videos).  There are 4 modes to choose from.
