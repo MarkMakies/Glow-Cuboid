@@ -7,7 +7,7 @@
 - Symbol https://youtu.be/7jHFOrDojFA
 - Type A https://youtu.be/Bh6ZJeXqZyo
 - Type B https://youtu.be/XRGPs1mgesw
-- Random https://youtu.be/37wrW9WWSZY
+- Random  https://youtu.be/dqcW-FjIBPw
 
 ## What does it do?
 Not much.  Sixty-four pixels change colour in random patterns and they look good (see videos).  There are 4 modes to choose from.
