@@ -26,4 +26,7 @@ The size of the unit was determined by a piece of sample frosted acrylic lying a
 - MPU-6050 Module 3 Axis Gyroscope + Accelerometer
 - USB-C cable
 - 3D printed front and back pieces, FreeCAD design files, step models and Prusa project files all here
-- Acrylic frosted slab, 100x100x10, or anything that is opaque 
+- Acrylic frosted slab, 100x100x10, or anything that is opaque
+
+## Build Instructions
+https://core-electronics.com.au/projects/glow-cuboid/
