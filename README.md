@@ -29,4 +29,4 @@ The size of the unit was determined by a piece of sample frosted acrylic lying a
 - Acrylic frosted slab, 100x100x10, or anything that is opaque
 
 ## Build Instructions
-https://core-electronics.com.au/projects/glow-cuboid/
+https://www.printables.com/model/529298-glow-cuboid
