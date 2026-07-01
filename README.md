@@ -30,3 +30,5 @@ The size of the unit was determined by a piece of sample frosted acrylic lying a
 
 ## Build Instructions
 https://www.printables.com/model/529298-glow-cuboid
+
+*More projects: https://makies.au*
